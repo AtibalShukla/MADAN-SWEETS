@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Choose Your Link</title>
-    <style>
-        body {
+    <MADAN SWEETS AND RESTAURANT>
+    body {
             font-family: Arial, sans-serif;
             display: flex;
             justify-content: center;
